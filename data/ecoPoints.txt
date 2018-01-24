@@ -1,0 +1,41 @@
+ECO Point Suggestions:
+
+# CHARACTER ANIMATIONS:
+=======================
+- Arms rotate to fire trigger for Iron Man
+- Thruster flames appear upon flying up
+- Basic Enemies fall when they are hit, realistically
+
+
+# GAMEPLAY MECHANICS:
+=======================
+- Boss appears only after the basic enemies are dead
+- Boss entry follows a short "cutscene"
+- Restart and Pause Button.
+
+
+# NARRATIVE AND FLAVOUR:
+=======================
+- Start and end screens are nicely designed with unique text
+- Textboxes with dialogue appear during cut-scenes
+- Cut Scenes appear a few times throughout the game, and the scenes are images (detailed) along with text 
+
+- Ability to choose different costumes for character
+- Tutorial Screen which shows the user how to play the game by allowing them to test out the game before starting
+- Side mini menu throughout game to access the main menu, instructions, restart, or pause the game
+
+
+# GAMEPLAY DEPTH AND COMPLEXITY:
+=======================
+- Health boost item that increases player heath when picked up
+- Repulsor Full Charge item that a player can pick up to get immediate full bullets, opposed to waiting until recharge.
+- Can only fire the repulsors up to 10 times, after which it is all used up and you must wait until it recharges for you to fire them again, which makes the game more difficult.
+- After killing 10 of the basic enemies their speed increases to make the game more difficult
+- Boss Enemy's projectiles cause player to take lots of damage.
+- Boss Enemy moves up and down shooting bullets, making it difficult for player as they must dodge the bullets.
+
+
+# ACHIEVEMENTS:
+=======================
+- Cut Scene shows achievement after 10 kills
+- Cut Scene at end shows winner achievement
